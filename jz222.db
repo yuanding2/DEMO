@@ -1,0 +1,11 @@
+#首先，进入指定目录，用cd指令
+
+#然后，用git init,再用git status查看提交状态。
+
+#试着新建一个文件，用touch或者vi指令都行
+
+#再 git add添加这个文件，git status查看状态
+
+#然后再 git commit 链接仓库 git remote
+#git pull 一下，刷新、
+#最后，git push origin master 上传
